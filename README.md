@@ -8,17 +8,14 @@ A Java-based banking application that allows users to manage accounts, deposits,
 - Transaction History
 
 ## 🛠️ Technologies Used
-- Java
-- JDBC (if used)
-- MySQL (if used)
+- Core Java
+- Java Swing
+- OOPs Concepts
 
 ## ▶️ How to Run
 1. Clone the repository
 2. Open in Eclipse/IntelliJ
 3. Run Main.java
-
-## 📷 Screenshots
-(Add screenshots here)
 
 ## 👤 Author
 Deepak Raj
